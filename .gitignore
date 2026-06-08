@@ -1,0 +1,5 @@
+# Dataset and generated data
+gesture_dataset_sample/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
