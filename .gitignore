@@ -3,3 +3,10 @@ gesture_dataset_sample/
 
 # Jupyter artifacts
 .ipynb_checkpoints/
+__pycache__/
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+# Virtual environment
+.venv/   
